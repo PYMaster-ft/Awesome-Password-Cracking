@@ -6,7 +6,7 @@ A curated list of awesome tools, research, papers and other projects related to 
 
 
 
-Read the [guidelines](https://github.com/PYMaster-ft/Awesome-Password-Cracking/blob/main/CONTRIBUTING.md) before contributing! In short:
+Read the [guidelines](https://github.com/PYMaster-ft/Awesome-Password-Cracking/blob/master/CONTRIBUTING.md) before contributing! In short:
 
 - List is alphabetically sorted
 - If you think an item shouldn't be here [open an issue](https://github.com/PYMaster-ft/Awesome-Password-Cracking/issues)
